@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a student in **[Amity University]**
+- 🔭 I’m currently a student in **Amity University**
 
 - 🌱 I’m aspiring to learn **Data Structures and Algorithms & MERN.**
 
